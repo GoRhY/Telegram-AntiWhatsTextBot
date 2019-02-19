@@ -1,4 +1,4 @@
-# AntiWhatsTextBot
+# AntiWhatsTextBot (Telegram bot)
 
 🇪🇸 Borra automáticamente los mensajes de "Foto/Video de"
 Para usar con webhook de telegram (https://core.telegram.org/bots/webhooks)
