@@ -1,7 +1,6 @@
 <?php
 date_default_timezone_set('Europe/Madrid');
 define("BOT_ID", "");
-define("ADMIN_ID", "");
 include("functions.php");
 $result = file_get_contents("php://input");
 if ($result){

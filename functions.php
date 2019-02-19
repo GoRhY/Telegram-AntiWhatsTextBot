@@ -5,13 +5,6 @@ if (count($included_files)==1){
 }
 date_default_timezone_set('Europe/Madrid');
 
-function imprimir($array){
-	echo "<pre>";
-	print_r($array);
-	echo "</pre>";
-	var_dump($array);
-}
-
 function send($url){
 	echo $url;
 	$ch = curl_init();
